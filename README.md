@@ -4,10 +4,10 @@ Nomadcoders Link : **https://academy.nomadcoders.co/p/learn-parcel**
 
 Setting up a professional React project with Parcel as a code bundler.
 
-## Feater
+## Feature
 
 * React
-* ES6 with Babel
+* ES6 with Babel 
 * SCSS
 * CSS Modules
 * Typography.js
