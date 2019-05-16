@@ -11,7 +11,8 @@
     "parcel": "^1.12.3",
     "postcss-modules": "^1.4.1",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "typography": "^0.16.19"
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
@@ -21,6 +22,7 @@
     "sass": "^1.20.1"
   },
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html -d build --public-url ./"
   }
 }
